@@ -6,3 +6,6 @@ From [Hotwire docs](https://turbo.hotwired.dev/):
 
 > Turbo Drive accelerates links and form submissions by negating the need for full page reloads.
 
+- Based on this awesome tutorial: https://www.youtube.com/watch?v=0CSGsHnci2I
+
+
